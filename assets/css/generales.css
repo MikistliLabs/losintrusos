@@ -135,15 +135,6 @@ body {
 .discos {
     margin:24px ;
 }
-.carouselExampleControls{
-    padding:5%;
-}
-.carousel-control-prev {
-    left: -150px;
-}
-.carousel-control-next {
-    right: -150px;
-}
 
 /* Próximos Shows */
 .tour-container {
